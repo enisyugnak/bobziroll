@@ -1,0 +1,17 @@
+.box--page{
+
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 4px;
+}
+
+.box--black{
+    background-color: black;
+}
+.box--white{
+    background-color: white;
+}
